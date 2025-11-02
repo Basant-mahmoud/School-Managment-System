@@ -33,3 +33,8 @@ Requirment to this project
 
 9. School Calendar and Events:
   - Maintain a school calendar with details of academic events, holidays, and extracurricular activities.
+
+Quick links (use exactly this in your presentation/video)
+Video + presentation folder: https://drive.google.com/drive/folders/1Iew8960b-vwVuxKK6JUaS5_k1gdSE5IL
+
+YouTube demo: https://www.youtube.com/watch?v=hcFpGLV8JJk
